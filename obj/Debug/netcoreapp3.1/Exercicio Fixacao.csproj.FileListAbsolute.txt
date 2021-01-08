@@ -11,3 +11,16 @@ C:\Users\Desktop\Desktop\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fix
 C:\Users\Desktop\Desktop\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.dll
 C:\Users\Desktop\Desktop\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.pdb
 C:\Users\Desktop\Desktop\Exercicio Fixacao\obj\Debug\netcoreapp3.1\Exercicio Fixacao.genruntimeconfig.cache
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.exe
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.deps.json
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.runtimeconfig.json
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.runtimeconfig.dev.json
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.dll
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\bin\Debug\netcoreapp3.1\Exercicio Fixacao.pdb
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.AssemblyInfo.cs
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.dll
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.pdb
+C:\Users\fic\Desktop\EXERCICIOS-FIXICACAO\EXERCICIO_FIXACAO\obj\Debug\netcoreapp3.1\Exercicio Fixacao.genruntimeconfig.cache
